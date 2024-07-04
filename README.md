@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Dhumane</h1>
 <h3 align="center">A passionate frontend developer And a Data Science Student from India</h3>
-<img align="right" alt="Coding" width="400" src=“https://unsplash.com/photos/turned-on-gray-laptop-computer-XJXWbfSo2f0”>
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010129.jpg?t=st=1720057748~exp=1720061348~hmac=fb588bd00a27f3b30066af8033127c357bbcaf63a9566ac78d3ab2eec5269639&w=996">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashdhumane12&label=Profile%20views&color=0e75b6&style=flat" alt="yashdhumane12" /> </p>
 
