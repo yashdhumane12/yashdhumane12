@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **HTML,JS**
+- 💬 Ask me about **HTML,JS,CSS**
 
 - 📫 How to reach me **yashdhumane391@gmail.com**
 
