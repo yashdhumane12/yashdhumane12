@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=200&section=header&text=YASH%20DHUMANE&fontSize=60&fontColor=39FF88&fontAlignY=40&desc=DevOps%20%26%20Platform%20Engineer&descAlignY=60&descSize=20&descColor=8B949E&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=200&section=header&text=YASH%20DHUMANE&fontSize=60&fontColor=39FF88&fontAlignY=40&desc=DevOps%20%7C%20Platform%20Engineer&descAlignY=60&descSize=20&descColor=8B949E&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=39FF88&background=0D1117&center=true&vCenter=true&width=650&height=110&lines=%24+whoami;%3E+DevOps+Engineer+%40+Honchominds%2C+Pune;%24+cat+stack.txt;%3E+Docker+%7C+Kubernetes+%7C+Jenkins+%7C+Terraform+%7C+AWS;%24+status+--open-to;%3E+DevOps+Engineer+roles" alt="Typing SVG" /></a>
 
