@@ -213,26 +213,6 @@ Developed a cross-platform mobile application to track and display real-time veh
 
 <br/>
 
-### `$ ./trophies --render`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yashdhumane12&theme=algolia&no-frame=true&no-bg=true&column=7&title.color=39FF88&icon.color=39FF88&text.color=8B949E"/>
-
-</div>
-
-<br/>
-
-### `$ ./activity-graph.sh`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashdhumane12&bg_color=0D1117&color=39FF88&line=39FF88&point=8B949E&area=true&hide_border=true"/>
-
-</div>
-
-<br/>
-
 ### `$ ./summary-cards.sh`
 
 <div align="center">
